@@ -1,0 +1,16 @@
+open3d
+numpy==1.26.3
+scipy
+numba
+glog
+tqdm
+
+trimesh
+opencv-python
+scikit-image
+matplotlib
+rectangle-packer
+
+mkdocs
+mkdocs-material
+mkdocstrings[python]
